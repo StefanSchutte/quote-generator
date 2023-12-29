@@ -41,6 +41,6 @@ The getQuotes function is called when the page loads to fetch an initial set of 
 In summary, this app provides a user-friendly interface for generating and sharing random quotes, with an emphasis on a clean design and a seamless user experience.
 
 
-![2023-12-29_22-51.png](..%2F2023-12-29_22-51.png)
+
 
 ![2023-12-29_22-52.png](..%2F2023-12-29_22-52.png)
