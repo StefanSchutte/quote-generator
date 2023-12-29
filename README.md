@@ -1,5 +1,8 @@
  ## This quote generator app is a simple web application designed to display and share random quotes. Here's a breakdown of its main components and functionalities:
 
+[Deployed site](https://stefans-quote-generator.netlify.app/)
+
+![2023-12-29_22-52](https://github.com/StefanSchutte/quote-generator/assets/127427422/5badc51f-d947-4267-a463-438a007f7f9a)
 
 
 The JavaScript code interacts with the HTML elements using the getElementById method to get references to different parts of the app.
@@ -41,6 +44,6 @@ The getQuotes function is called when the page loads to fetch an initial set of 
 In summary, this app provides a user-friendly interface for generating and sharing random quotes, with an emphasis on a clean design and a seamless user experience.
 
 
+![2023-12-29_22-51](https://github.com/StefanSchutte/quote-generator/assets/127427422/0b1b2c14-ce15-458b-9dce-6dbb80569306)
 
 
-![2023-12-29_22-52.png](..%2F2023-12-29_22-52.png)
